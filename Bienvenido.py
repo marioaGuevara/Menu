@@ -9,4 +9,4 @@ with c2:
     st.header('Este es un menú digital')
     st.subheader('Sírvase de ejemplo para hacer menús que funcionen en celulares, por favor.')
 
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")

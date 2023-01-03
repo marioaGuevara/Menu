@@ -1,0 +1,15 @@
+categoria,platillo,foto,precio,descripcion
+Pizza,Pizza Familiar,familiar.png,160,"24 piezas, con pepperoni, queso crema y carne molida."
+Pizza,Pizza Peperonni,peperonni.png,120,12 piezas con sobrecarga de pepperoni.
+Pizza,Pizza Suprema,suprema.png,140,"12 piezas, con chile morrón, carne, champiñones y pepperoni."
+Pizza,Pizza Queso,queso.png,120,"12 piezas, 3 quesos (queso crema, queso chédar y queso badón)."
+Pizza,Pizza Manzana,manzana.png,100,"12 piezas, con manzana"
+Pizza,Pizza Personal,personal.png,80,"4 piezas, pepperoni"
+Bebida,Coca Cola,coca.png,20,Refresco
+Bebida,Sprite,sprite.png,20,Refresco de limón
+Bebida,Topo Chico,topochico.png,25,Agua Mineral
+Bebida,Jamica,jamaica.png,20,"Agua de jamaica, con refill"
+Bebida,Horchata,horchata.png,20,"Agua de horchata, con refill"
+Pasta,Spaguetti con carne,spaguetti.png,120,Espaguetti con albóndigas de carne
+Pasta,Pasta Alfredo,alfredo.png,120,Pasta alfredo con pollo
+Pasta,Pasta al queso,pastaalqueso.png,150,Pasta al queso

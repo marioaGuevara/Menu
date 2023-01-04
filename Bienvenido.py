@@ -6,7 +6,7 @@ with c1:
     st.image('imgs/logopizza.png')
 
 with c2:
-    st.header('Este es un menú digital')
+    st.header('Este es un menú digital, perro')
     st.subheader('Sírvase de ejemplo para hacer menús que funcionen en celulares, por favor.')
 
 # st.set_page_config(layout="wide")
